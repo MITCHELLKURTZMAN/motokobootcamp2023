@@ -1,0 +1,16 @@
+{
+  "canisters": {
+   
+    "challenge1": {
+      "main": "day1/challenge1.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "version": 1
+}
