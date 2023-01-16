@@ -35,3 +35,5 @@ return(message);
 var message is initially set as type text, but the default value is a Nat, A proper default Text could be just "" for example `var message : Text = "";`
 
 #### False or True: we can remove the keyword async for return argument of a query function since queries are faster to answer.
+
+False
