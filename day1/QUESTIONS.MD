@@ -1,6 +1,6 @@
 #### How much is the current memory capacity of a canister?
 
-32gb, but be careful, if using pre-post upgrade methods, you are limited to message size 2gb.
+48GBgb, but be careful, if using pre-post upgrade methods, you are limited to message size 2gb.
 
 #### What is the issue with the following code sample?
 

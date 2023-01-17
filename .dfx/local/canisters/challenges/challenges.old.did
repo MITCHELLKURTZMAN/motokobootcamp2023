@@ -1,3 +1,0 @@
-service : {
-  multiply: (nat, nat) -> (nat) query;
-}
