@@ -1,0 +1,9 @@
+service : {
+  average_array: (vec int) -> (int) query;
+  convert_to_binary: (nat) -> (text);
+  count_character: (text, nat32) -> (text) query;
+  factorial: (nat) -> (nat) query;
+  find_duplicates: (vec nat) -> (vec nat) query;
+  getChar: () -> (nat32) query;
+  number_of_words: (text) -> (nat) query;
+}

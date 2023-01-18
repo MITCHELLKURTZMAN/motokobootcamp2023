@@ -4,8 +4,15 @@
     "challenge1": {
       "main": "day1/challenge1.mo",
       "type": "motoko"
-    }
-  },
+    },
+
+  "challenge2":
+  {
+    "main": "day2/challenges.mo",
+    "type": "motoko"
+  }
+},
+
   "defaults": {
     "build": {
       "args": "",
