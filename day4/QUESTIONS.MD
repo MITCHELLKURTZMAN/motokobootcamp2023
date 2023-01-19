@@ -28,4 +28,4 @@ actor {
 }
 ```
 
-Although this wouldn't lose any data since it appears none is stored, it would break any canisters that are using the old interface because they would require one less argument (surname).
+Although this wouldn't lose any data since it appears none is stored, it would break this functionality for any canisters that are using the old interface because they would require one less argument (surname).
