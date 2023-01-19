@@ -10,8 +10,14 @@
   {
     "main": "day2/challenges.mo",
     "type": "motoko"
+  },
+  "Book":
+  {
+    "main": "day3/main.mo",
+    "type": "motoko"
   }
 },
+
 
   "defaults": {
     "build": {

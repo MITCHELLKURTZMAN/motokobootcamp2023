@@ -1,0 +1,11 @@
+type BookType = 
+ record {
+   pages: nat;
+   title: text;
+ };
+service : {
+  add_book: (BookType) -> ();
+  testDrop: () -> (vec nat);
+  testRemove_even: () -> (vec nat);
+  testSecond_maximum: () -> (int);
+}

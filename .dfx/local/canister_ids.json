@@ -1,6 +1,12 @@
 {
+  "Book": {
+    "local": "tcvdh-niaaa-aaaaa-aaaoa-cai"
+  },
   "__Candid_UI": {
     "local": "t6rzw-2iaaa-aaaaa-aaama-cai"
+  },
+  "challenge1": {
+    "local": "tfuft-aqaaa-aaaaa-aaaoq-cai"
   },
   "challenge2": {
     "local": "st75y-vaaaa-aaaaa-aaalq-cai"
