@@ -1,0 +1,20 @@
+type List__1 = 
+ opt record {
+       nat;
+       List__1;
+     };
+type List = 
+ opt record {
+       nat;
+       List__1;
+     };
+service : {
+  add_username: (text) -> ();
+  get_usernames: () -> (vec record {
+                              principal;
+                              text;
+                            }) query;
+  is_anonymous: () -> (bool);
+  testReverse: () -> (List);
+  test_find_in_buffer: () -> (nat);
+}
